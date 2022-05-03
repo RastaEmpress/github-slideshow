@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Generation Trial and Error
 Use the left arrow to go back!
